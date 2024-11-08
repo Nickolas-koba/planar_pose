@@ -1,0 +1,6 @@
+future-fstrings
+numpy
+sympy
+opencv-python  
+opencv-contrib-python
+empy
